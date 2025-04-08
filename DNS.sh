@@ -1,4 +1,3 @@
-GNU nano 8.4                                          ip.sh
 #!/data/data/com.termux/files/usr/bin/bash
 
 clear
@@ -44,6 +43,8 @@ echo " ██║  ██║██║╚██╗██║╚════██�
 echo " ██████╔╝██║ ╚████║███████║"
 echo " ╚═════╝ ╚═╝  ╚═══╝╚══════╝"
 
+
+echo -e "${GREEN}                                > DEVALOPER CYBER BLACK LION! <<${NC}"
 
 echo "Enter a domain name:"
 read domain
